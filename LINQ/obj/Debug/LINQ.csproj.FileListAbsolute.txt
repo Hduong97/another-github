@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\WebApplication1\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Admin\Desktop\WebApplication1\LINQ\bin\Debug\LINQ.exe
+C:\Users\Admin\Desktop\WebApplication1\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Admin\Desktop\WebApplication1\LINQ\obj\Debug\LINQ.exe
+C:\Users\Admin\Desktop\WebApplication1\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Admin\Desktop\WebApplication1\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WebApplication1\LINQ\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\WebApplication1\LINQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\WebApplication1\LINQ\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\WebApplication1\LINQ\bin\Debug\EntityFramework.SqlServer.xml

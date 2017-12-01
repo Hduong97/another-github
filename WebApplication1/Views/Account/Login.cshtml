@@ -1,0 +1,17 @@
+﻿@model WebApplication1.Models.AccountVM
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+    @Html.LabelFor(z => z.username)<br />
+    @Html.EditorFor(z => z.username) @Html.ValidationMessageFor(z=>z.username)<br />
+
+    @Html.LabelFor(z => z.password)<br />
+    @Html.EditorFor(z => z.password) @Html.ValidationMessageFor(z => z.password)<br />
+
+    <button type="submit">Login</button>
+}
